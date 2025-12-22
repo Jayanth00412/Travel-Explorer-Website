@@ -2,9 +2,6 @@
 
 A modern and interactive travel exploration website designed to showcase famous historic places in Karnataka with a clean UI and smooth user experience.
 
-🔗 Live Demo:
-(Add GitHub Pages link here if deployed)
-
 👤 About the Project
 
 Karnataka Travel Explorer helps users explore well-known historical destinations across Karnataka.
