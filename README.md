@@ -1,8 +1,10 @@
-🧭 Karnataka Travel Explorer
+🧭 Karnataka Travel Explorer 
+
 A modern and interactive travel exploration website designed to showcase famous historic places in Karnataka with a clean UI and smooth user experience.
 
 
 👤 About the Project
+
 Karnataka Travel Explorer helps users explore well-known historical destinations across Karnataka.
 The website presents places using visually appealing cards, images, and a search feature to make exploration simple and engaging.
 
