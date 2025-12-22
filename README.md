@@ -59,12 +59,3 @@ Bidar Fort
 Chitradurga Fort
 
 Pattadakal
-
-📂 Project Structure
-travel-explorer/
-│
-├── index.html
-├── style.css
-├── places.js
-├── script.js
-└── README.md
