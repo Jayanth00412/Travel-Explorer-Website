@@ -12,43 +12,26 @@ This project was built as part of my front-end development practice to improve U
 🚀 Features
 
 Interactive card-based layout
-
 Search functionality to filter places instantly
-
 High-quality images for each destination
-
 Responsive design (mobile & desktop)
-
 Smooth hover animations and transitions
-
 Clean and user-friendly interface
 
 🛠️ Tech Stack
-
 HTML
-
 CSS
-
 JavaScript
-
 Unsplash Images
 
 🏛️ Places Covered
-
 Hampi
-
 Mysore Palace
-
 Gol Gumbaz
-
 Badami Caves
-
 Aihole
-
 Belur
-
 Halebidu
-
 Shravanabelagola
 
 Bidar Fort
